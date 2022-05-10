@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-brainfuck
+target: bf2lua
+
+cmds:
+  - cmd: /Brainfuck/bin/bf2lua @@
