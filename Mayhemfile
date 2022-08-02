@@ -2,4 +2,4 @@ project: brainfuck
 target: bf2lua
 
 cmds:
-  - cmd: /Brainfuck/bin/bf2lua @@
+  - cmd: /bf2lua @@
